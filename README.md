@@ -1,8 +1,9 @@
 # Sistema de Gestión de Inscripciones - Evento Académico
 
 ## Integrantes del Grupo
-* [Nombre del Integrante 1]
-* [Nombre del Integrante 2]
+Thiago Leguisa
+Dante Daloia
+Santino Haydaz
 
 ## Descripción del Caso
 Este proyecto analiza la estructura lógica necesaria para gestionar un evento académico de la facultad. [cite_start]El sistema permite registrar interesados, buscar inscripciones, ordenar listados para reportes y almacenar la información de manera persistente para evitar la pérdida de datos[cite: 3, 4].
