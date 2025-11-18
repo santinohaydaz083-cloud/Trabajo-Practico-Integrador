@@ -1,8 +1,8 @@
 # Sistema de Gestión de Inscripciones - Evento Académico
 
 ## Integrantes del Grupo
-Thiago Leguisa
-Dante Daloia
+Thiago Leguisa,
+Dante Daloia,
 Santino Haydaz
 
 ## Descripción del Caso
